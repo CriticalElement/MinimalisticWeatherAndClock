@@ -16,3 +16,7 @@ You can also skew the widget to your liking.
 
 ![skew](https://user-images.githubusercontent.com/50345351/155252129-c6c646f3-e8c6-4372-b2a1-e4f2191b757f.png)
 
+The text can also be aligned to the left, center, or right.
+
+![alignment](https://user-images.githubusercontent.com/50345351/214754645-21e93a50-0c86-4c6c-afe6-6356cc73a35a.png)
+*the widget is currently aligned to the right in this picture*
